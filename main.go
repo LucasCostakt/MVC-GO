@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/MVC/bootstrap"
+	"github.com/MVC/view"
 )
 
 func main() {
-	bootstrap.BootAplication()
+	view.BootAplication()
 }
